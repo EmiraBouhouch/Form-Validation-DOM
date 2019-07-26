@@ -1,0 +1,54 @@
+body {
+background-color: #293354;
+display: flex;
+justify-content: center;
+align-items: center
+}
+
+.main {
+
+margin-top: 50px
+}
+
+.main * 
+{
+color: white ;
+width: 300px;
+
+}
+
+.btn 
+{
+background: #232439; 
+border: black;
+height:30px;
+}
+
+input, textarea 
+{
+background-color: #232439;
+border-radius: 3px;
+border: black
+}
+input
+{
+width :200px; 
+height:30px;
+
+}
+
+textarea {
+    width :200px; 
+    height:30;
+}
+.send-reset
+{
+margin-top: 10px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+height: 80px;
+width :200px; 
+height:6;
+
+}
